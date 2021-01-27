@@ -1,0 +1,50 @@
+
+*{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
+body {
+    background-color: #f67e7d;
+}
+
+li {
+    color: #843b62;
+    font-size: 20pt;
+}
+
+.input-container {
+    background-color: whitesmoke;
+    margin: auto;
+    width: 30%;
+    border-radius: 10px;
+}
+
+.input-container h1 {
+    text-align: center;
+    padding-top: 20px;
+    color: #0b032d;
+    font-size: 35pt;
+}
+
+#lista {
+    margin: 0;
+    padding: 0 0 20px 0;
+    list-style-type: none;
+    text-align: center;
+}
+
+#textarea {
+    width: 30%;
+    font-size: large;
+}
+
+.innerbox {
+   text-align: center;
+   padding-bottom: 5px;
+}
+
+#submit {
+    border: 1px solid black;
+    width: 40px;
+    margin: auto;
+    margin-top: 10px;
+    padding: 2px;
+}
